@@ -34,7 +34,7 @@ How many phones have only one feature sensor?
 What year had the most phones launched in any year later than 1999? 
 
 
-the answers for this four questions with the output i did it in a word document that i attach to the canvas submition.
+the answers for this four questions with the output i did it in a word document that i attach to the github branch as final answer project.
 
 
 
